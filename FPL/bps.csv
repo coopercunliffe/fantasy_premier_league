@@ -1,0 +1,33 @@
+event,score
+Playing 1 to 60 minutes,3
+Playing over 60 minutes,6
+Goalkeepers and defenders scoring a goal,12
+Midifielders scoring a goal,18
+Forwards scoring a goal,24
+Assists,9
+Goalkeepers and defenders keeping a clean sheet,12
+Saving a penalty,15
+Save,2
+Successful open play cross,1
+Creating a big chance (a chance where the receiving player should score),3
+"For every 2 clearances, blocks and interceptions (total)",1
+For every 3 recoveries,1
+Key pass,1
+Successful tackle (net*),2
+Successful dribble,1
+Scoring the goal that wins a match,3
+70 to 79% pass completion (at least 30 passes attempted),2
+80 to 89% pass completion (at least 30 passes attempted),4
+90%+ pass completion (at least 30 passes attempted),6
+Conceding a penalty,-3
+Missing a penalty,-6
+Yellow card,-3
+Red card,-9
+Own goal,-6
+Missing a big chance,-3
+Making an error which leads to a goal,-3
+Making an error which leads to an attempt at goal,-1
+Being tackled,-1
+Conceding a foul,-1
+Being caught offside,-1
+Shot off target,-1
